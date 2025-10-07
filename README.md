@@ -1,4 +1,4 @@
-# animalgessinggame
+# animalgessinggame -> go into the animalguessinggame folder !! 
 #  Learn AI — Animal Guessing Game
 
 Une application web interactive, **dockerisée** et développée avec **Flask**, combinant **intelligence artificielle** et **jeux éducatifs** autour de la classification et de la génération d’images.
